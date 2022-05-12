@@ -1,0 +1,19 @@
+{
+  "name": "shapeless-ts",
+  "version": "1.0.0",
+  "description": "Port of scala's shapeless",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "fp-ts": "^2.12.1",
+    "mocha": "^10.0.0",
+    "ts-mocha": "^10.0.0"
+  }
+}

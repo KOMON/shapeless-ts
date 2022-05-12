@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.ts
+!tsconfig.json
+!package.json
+!package-lock.json
